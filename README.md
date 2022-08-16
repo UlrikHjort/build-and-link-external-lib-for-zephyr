@@ -1,0 +1,1 @@
+Build and link external lib for zephyr
